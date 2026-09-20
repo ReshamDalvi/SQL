@@ -118,7 +118,7 @@ Loan statuses include:
 
 ## 🏦 Nexora Bank – SQL Business Analysis Question Bank
 
-#### - 👥 Customer Analysis
+- ####  👥 Customer Analysis
 1. What is the total number of customers, and how many are Active vs Inactive?
 2. How are customers distributed across cities?
 3. What is the average customer age by city?
