@@ -60,7 +60,7 @@ For each account, the system stores:
 - Account Type
 - Balance
 - Account Status
-- Open Date
+- Opening Date
 
 A customer can have multiple accounts, allowing analysis of account ownership and customer banking behavior.
 
