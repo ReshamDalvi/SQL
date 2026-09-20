@@ -118,14 +118,14 @@ Loan statuses include:
 
 ## 🏦 Nexora Bank – SQL Business Analysis Question Bank
 
-- ####  👥 Customer Analysis
+- #### 👥 Customer Analysis
 1. What is the total number of customers, and how many are Active vs Inactive?
 2. How are customers distributed across cities?
 3. What is the average customer age by city?
 4. How many customers registered each year?
 5. Which customers are older than the overall average age?
 
-#### - 💳 Account & Balance Analysis
+- #### 💳 Account & Balance Analysis
 1. How many accounts are there for each account type and status?
 2. Which customers have multiple accounts?
 3. What is the total account balance by customer?
@@ -133,7 +133,7 @@ Loan statuses include:
 5. What is the total account balance by branch?
 6. Which customers have both Savings and Fixed Deposit accounts?
 
-#### - 💸 Transaction Analysis
+- #### 💸 Transaction Analysis
 1. What is the total number and total amount of transactions?
 2. What are the total Deposit and Withdrawal amounts?
 3. Which customers have the highest total transaction activity?
@@ -142,7 +142,7 @@ Loan statuses include:
 6. What is the monthly transaction amount trend?
 7. Which transaction descriptions are used most frequently?
 
-#### - 🏦 Loan Analysis
+- #### 🏦 Loan Analysis
 1. How many loans are there by loan type and status?
 2. What is the total loan amount by loan type?
 3. What is the total loan amount by branch?
@@ -150,39 +150,39 @@ Loan statuses include:
 5. Which customers have multiple loans?
 6. Which loan types have the highest average loan amount and interest rate?
 
-#### - 👤 Customer Financial Relationship
+- #### 👤 Customer Financial Relationship
 1. Which customers have accounts but no loans?
 2. Which customers have loans but no accounts?
 3. Which customers have both accounts and loans?
 4. Which customers have high account balances but no loans?
 5. Which customers have loan amounts greater than their total account balance?
 
-#### - 🏢 Branch Performance
+- #### 🏢 Branch Performance
 1. Which branches have the highest number of customers, accounts, and loans?
 2. Which branches have the highest total account balance?
 3. Which branches have the highest total loan amount?
 4. Compare account balances, loan amounts, and transaction activity across branches.
 
-#### - 🧩 Customer Segmentation & Classification
+- #### 🧩 Customer Segmentation & Classification
 1. Categorize customers into Young, Adult, Middle-Aged, and Senior based on age.
 2. Categorize customers based on their total account balance as Low, Medium, or High.
 3. Categorize customers based on their banking relationship: Account Only, Loan Only, Both, or No Product.
 
-#### - 🔎 Customer & Banking Insights
+- #### 🔎 Customer & Banking Insights
 1. Rank customers by their total account balance using RANK().
 2. Find the top 3 customers by account balance in each city using a window function.
 3. Find customers whose total account balance is above the overall average using a subquery.
 4. Find pairs of customers living in the same city using a self join.
 5. Create a consolidated customer banking view showing customer, account, and loan information.
 
-#### - 📈 Financial Performance Analysis
+- #### 📈 Financial Performance Analysis
 1. Which branches have the highest total account balance?
 2. Which branches have the highest total loan amount?
 3. Which branches have a higher total account balance than total loan amount?
 4. Which branches have the highest transaction activity?
 5. Which branches have both high account balances and high loan exposure?
 
-#### - 🎯 Key Customer Insights
+- #### 🎯 Key Customer Insights
 1. Who are the top 10 customers based on total account balance?
 2. Who are the top 10 customers based on total loan amount?
 3. Which customers have both high account balances and active loans?
