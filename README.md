@@ -113,3 +113,140 @@ Loan statuses include:
 - Closed
 - Rejected
 
+
+
+
+## 🏦 Nexora Bank – SQL Business Analysis Question Bank
+
+#### - 👥 Customer Analysis
+1. What is the total number of customers, and how many are Active vs Inactive?
+2. How are customers distributed across cities?
+3. What is the average customer age by city?
+4. How many customers registered each year?
+5. Which customers are older than the overall average age?
+
+#### - 💳 Account & Balance Analysis
+1. How many accounts are there for each account type and status?
+2. Which customers have multiple accounts?
+3. What is the total account balance by customer?
+4. Who are the top 10 customers by total account balance?
+5. What is the total account balance by branch?
+6. Which customers have both Savings and Fixed Deposit accounts?
+
+#### - 💸 Transaction Analysis
+1. What is the total number and total amount of transactions?
+2. What are the total Deposit and Withdrawal amounts?
+3. Which customers have the highest total transaction activity?
+4. Which accounts have more Withdrawals than Deposits?
+5. Which customers have both Deposit and Withdrawal transactions?
+6. What is the monthly transaction amount trend?
+7. Which transaction descriptions are used most frequently?
+
+#### - 🏦 Loan Analysis
+1. How many loans are there by loan type and status?
+2. What is the total loan amount by loan type?
+3. What is the total loan amount by branch?
+4. Who are the top customers by total loan amount?
+5. Which customers have multiple loans?
+6. Which loan types have the highest average loan amount and interest rate?
+
+#### - 👤 Customer Financial Relationship
+1. Which customers have accounts but no loans?
+2. Which customers have loans but no accounts?
+3. Which customers have both accounts and loans?
+4. Which customers have high account balances but no loans?
+5. Which customers have loan amounts greater than their total account balance?
+
+#### - 🏢 Branch Performance
+1. Which branches have the highest number of customers, accounts, and loans?
+2. Which branches have the highest total account balance?
+3. Which branches have the highest total loan amount?
+4. Compare account balances, loan amounts, and transaction activity across branches.
+
+#### - 🧩 Customer Segmentation & Classification
+1. Categorize customers into Young, Adult, Middle-Aged, and Senior based on age.
+2. Categorize customers based on their total account balance as Low, Medium, or High.
+3. Categorize customers based on their banking relationship: Account Only, Loan Only, Both, or No Product.
+
+#### - 🔎 Customer & Banking Insights
+1. Rank customers by their total account balance using RANK().
+2. Find the top 3 customers by account balance in each city using a window function.
+3. Find customers whose total account balance is above the overall average using a subquery.
+4. Find pairs of customers living in the same city using a self join.
+5. Create a consolidated customer banking view showing customer, account, and loan information.
+
+#### - 📈 Financial Performance Analysis
+1. Which branches have the highest total account balance?
+2. Which branches have the highest total loan amount?
+3. Which branches have a higher total account balance than total loan amount?
+4. Which branches have the highest transaction activity?
+5. Which branches have both high account balances and high loan exposure?
+
+#### - 🎯 Key Customer Insights
+1. Who are the top 10 customers based on total account balance?
+2. Who are the top 10 customers based on total loan amount?
+3. Which customers have both high account balances and active loans?
+4. Which customers have multiple accounts and multiple loans?
+5. Which customers have accounts but have never performed a transaction?
+
+
+## Project Conclusion
+
+Nexora Bank SQL analysis provides a comprehensive view of the bank's customers, accounts, branches, transactions, and loans.
+
+The analysis helps Nexora Bank understand customer demographics, monitor account balances, evaluate branch performance, track transaction behavior, and analyze the loan portfolio.
+
+Customer and financial relationship analysis helps identify high-value customers, multiple-account holders, active banking relationships, and customers using multiple financial products.
+
+CASE-based classification helps segment customers based on age, account balance, transaction activity, and banking relationships for better analysis.
+
+Overall, this SQL project demonstrates how banking data can be organized, analyzed, and transformed into meaningful business insights to support data-driven decision-making.
+
+
+# SQL
+
+# 🏦 Nexora_Bank Project
+
+```text
+                 NEXORA BANK PROJECT
+                         │
+                         ▼
+                  SQL DATABASE
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+          ├── Customers  ├── Accounts   ├── Branches
+          ├── Loans      └── Transactions
+          │
+          ▼
+                  DATA VALIDATION
+                         │
+          ├── Duplicate Checks
+          ├── NULL Checks
+          ├── Foreign Key Validation
+          ├── Amount Validation
+          └── Date Validation
+                         │
+                         ▼
+                   SQL ANALYSIS
+                         │
+          ├── SELECT / WHERE
+          ├── DISTINCT / ORDER BY
+          ├── GROUP BY / HAVING
+          ├── Aggregate Functions
+          ├── JOIN
+          ├── CASE
+          ├── SUBQUERIES
+          ├── WINDOW FUNCTIONS
+          ├── SELF JOIN
+          └── VIEWS
+                         │
+                         ▼
+                  BUSINESS INSIGHTS
+                         │
+          ├── Customer Insights
+          ├── Account & Balance Insights
+          ├── Transaction Insights
+          ├── Loan Insights
+          ├── Branch Performance
+          └── Financial Insights
