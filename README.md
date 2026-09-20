@@ -116,8 +116,6 @@ Loan statuses include:
 
 
 
-
-
 ## 🏦 Nexora Bank – SQL Business Analysis Question Bank
 
 - #### 👥 Customer Analysis
@@ -193,8 +191,6 @@ Loan statuses include:
 
 
 
-
-
 ## Project Conclusion
 
 Nexora Bank SQL analysis provides a comprehensive view of the bank's customers, accounts, branches, transactions, and loans.
@@ -208,10 +204,7 @@ CASE-based classification helps segment customers based on age, account balance,
 Overall, this SQL project demonstrates how banking data can be organized, analyzed, and transformed into meaningful business insights to support data-driven decision-making.
 
 
-
-
 # SQL
-
 
 
 # 🏦 Nexora_Bank Project
