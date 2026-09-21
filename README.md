@@ -177,19 +177,19 @@ Loan statuses include:
 5. Create a consolidated customer banking view showing customer, account, and loan information.
 
 - #### 📈 Financial Performance Analysis
-1. Which branches have the highest total account balance?
-2. Which branches have the highest total loan amount?
+1. Which loan types have the highest total number of active loans?
+2. Which account types have the highest average balance?
 3. Which branches have a higher total account balance than total loan amount?
 4. Which branches have the highest transaction activity?
 5. Which branches have both high account balances and high loan exposure?
 
-- #### 🎯 Key Customer Insights
-1. Who are the top 10 customers based on total account balance?
-2. Who are the top 10 customers based on total loan amount?
-3. Which customers have both high account balances and active loans?
-4. Which customers have multiple accounts and multiple loans?
-5. Which customers have accounts but have never performed a transaction?
-
+- #### 📅 Banking Trends & Operations
+1. How many new accounts were opened in each year?
+2. How many loans were issued in each year?
+3. What is the loan approval, rejection, and closure distribution?
+4. What is the average time between customer registration and account opening?
+5. What is the average time between customer registration and taking a loan?
+6. On which days of the week are transactions most frequently performed?
 
 
 ## Project Conclusion
