@@ -122,7 +122,7 @@ Loan statuses include:
 1. What is the total number of customers?
 2. How many customers are Active vs Inactive?
 3. How are customers distributed across cities?
-4. What is the average customer age by city?
+4. Which cities have the highest number of Active customers?
 5. How many customers registered each year?
 6. Which customers are older than the overall average age?
 
