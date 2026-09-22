@@ -2,7 +2,7 @@
 
 Scenario:
 
-Nexora Bank is a fictional banking organization providing financial services to customers across different cities in Maharashtra. The bank operates through multiple branches, with each branch managed by a branch manager.
+Nexora Bank is a banking organization providing financial services to customers across different cities in Maharashtra. The bank operates through multiple branches, with each branch managed by a branch manager.
 
 The bank wants to develop a Banking Management System to store and analyze its banking operations in a structured SQL database.
 
