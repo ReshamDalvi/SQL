@@ -192,6 +192,21 @@ Loan statuses include:
 6. On which days of the week are transactions most frequently performed?
 
 
+## 📊 Key Performance Indicators
+- Total Customers: 100
+- Total Accounts: 150
+- Total Loans: 75
+- Total Transactions: 500
+- Total Account Balance: ₹14.51M
+- Total Loan Amount: ₹92.97M
+- Total Transaction Amount: ₹5.95M
+- Average Account Balance: ₹96,700
+- Average Loan Amount: ₹1.24M
+- Average Transaction Value: ₹11,896
+- Average Accounts per Customer: 1.50
+- Average Loans per Customer: 0.75
+
+  
 ## Project Conclusion
 
 Nexora Bank SQL analysis provides a comprehensive view of the bank's customers, accounts, branches, transactions, and loans.
