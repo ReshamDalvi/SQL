@@ -192,6 +192,8 @@ Loan statuses include:
 6. On which days of the week are transactions most frequently performed?
 
 
+
+
 ## 📊 Key Performance Indicators
 - Total Customers: 100
 - Total Accounts: 150
@@ -206,8 +208,10 @@ Loan statuses include:
 - Average Accounts per Customer: 1.50
 - Average Loans per Customer: 0.75
 
+
+
   
-## Project Conclusion
+## 🎯 Project Conclusion
 
 Nexora Bank SQL analysis provides a comprehensive view of the bank's customers, accounts, branches, transactions, and loans.
 
